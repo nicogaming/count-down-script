@@ -1,0 +1,19 @@
+{
+    "Cheer": false,
+    "Prefix": "!",
+    "Commands":
+    {
+        "0": {
+            "Command": "Discord",
+            "Output": "https://discord.gg/vfHZxWR"
+        },
+        "1": {
+            "Command": "Schedule",
+            "Output": "The planned schedule for the 24-hour charity stream 2023: https://pics.utmg.uk/asylumjen_2023_timetable.jpg"
+        },
+        "2": {
+            "Command": "CharityLink",
+            "Output": "Join us as we enter our 5th annual 24 hour charity stream. Please Help Us in Raising money for Marie Curie. Every Pound donated toward the cause help. Every Donation it Greatly appriciated. https://www.justgiving.com/page/jennifer-colebrook-1701602559344"
+        }
+    }
+}
